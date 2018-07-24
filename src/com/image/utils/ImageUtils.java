@@ -8,6 +8,9 @@ public class ImageUtils {
 	
 	public static void main( String[] args) {
 		System.out.println("Teste java");
+		for (int i = 0; i < args.length; i++) {
+			
+		}
 		
 	}
 
